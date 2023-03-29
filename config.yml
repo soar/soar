@@ -1,0 +1,26 @@
+user: soar
+pull-requests:
+  - repo: ethereum/go-ethereum
+    id: 18315
+  - repo: nsqio/nsq
+    id: 957
+  - repo: aio-libs/aiopg
+    id: 373
+  - repo: rundeck/rundeck
+    id: 6990
+  - repo: GoogleCloudPlatform/magic-modules
+    id: 7410
+  - repo: yodle/docker-registry-client
+    id: 41
+  - repo: yodle/docker-registry-client
+    id: 43
+  - repo: jibrelnetwork/jwallet-web
+    id: 1000
+  - repo: steamguard-totp/steamguard-shared-secret
+    id: 11
+  - repo: ToolJet/helm-charts
+    id: 2
+  - repo: subspacecommunity/subspace
+    id: 223
+  - repo: jorgebastida/awslogs
+    id: 373

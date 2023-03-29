@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pygithub = "*"
+python-dotenv = "*"
+pyyaml = "*"
 
 [dev-packages]
 
