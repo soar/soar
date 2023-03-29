@@ -6,18 +6,18 @@
 ## ⛙ My Pull Requests
 | Repository | Pull Request | Status | Changes |
 | --- | --- | --- | --- |
-| ethereum/go-ethereum | [internal/build: fix commit extraction for detached head repo](https://github.com/ethereum/go-ethereum/pull/18315) | ✔ | `+8/-0` |
-| nsqio/nsq | [*: multi-topic nsq_tail; automated docker builds; etc](https://github.com/nsqio/nsq/pull/957) | ✔ | `+70/-32` |
-| aio-libs/aiopg | [Pool connections recycling](https://github.com/aio-libs/aiopg/pull/373) | ✔ | `+48/-11` |
-| rundeck/rundeck | [RUN-256: Make log levels configurable on Docker Image via Remco](https://github.com/rundeck/rundeck/pull/6990) | ✔ | `+50/-21` |
-| GoogleCloudPlatform/magic-modules | [Fix PubSub-to-BigQuery push configuration example](https://github.com/GoogleCloudPlatform/magic-modules/pull/7410) | ✔ | `+1/-1` |
-| yodle/docker-registry-client | [Fix for "AttributeError: 'list' object has no attribute 'keys'" error](https://github.com/yodle/docker-registry-client/pull/41) | ✔ | `+9/-8` |
-| yodle/docker-registry-client | [Adding timeouts to all remote requests](https://github.com/yodle/docker-registry-client/pull/43) | ✔ | `+20/-9` |
-| jibrelnetwork/jwallet-web | [Better scripts](https://github.com/jibrelnetwork/jwallet-web/pull/1000) | ✔ | `+48/-31` |
-| steamguard-totp/steamguard-shared-secret | [Updates](https://github.com/steamguard-totp/steamguard-shared-secret/pull/11) | ✔ | `+39/-4` |
-| ToolJet/helm-charts | [Fix for PG_HOST variables](https://github.com/ToolJet/helm-charts/pull/2) |  | `+0/-2` |
-| subspacecommunity/subspace | [Custom client nameservers](https://github.com/subspacecommunity/subspace/pull/223) |  | `+26/-15` |
-| jorgebastida/awslogs | [Add `--json` flag](https://github.com/jorgebastida/awslogs/pull/373) |  | `+23/-5` |
+| `ethereum`/`go-ethereum` | [internal/build: fix commit extraction for detached head repo](https://github.com/ethereum/go-ethereum/pull/18315) | ✔ | `+8/-0` |
+| `nsqio`/`nsq` | [*: multi-topic nsq_tail; automated docker builds; etc](https://github.com/nsqio/nsq/pull/957) | ✔ | `+70/-32` |
+| `aio-libs`/`aiopg` | [Pool connections recycling](https://github.com/aio-libs/aiopg/pull/373) | ✔ | `+48/-11` |
+| `rundeck`/`rundeck` | [RUN-256: Make log levels configurable on Docker Image via Remco](https://github.com/rundeck/rundeck/pull/6990) | ✔ | `+50/-21` |
+| `GoogleCloudPlatform`/`magic-modules` | [Fix PubSub-to-BigQuery push configuration example](https://github.com/GoogleCloudPlatform/magic-modules/pull/7410) | ✔ | `+1/-1` |
+| `yodle`/`docker-registry-client` | [Fix for "AttributeError: 'list' object has no attribute 'keys'" error](https://github.com/yodle/docker-registry-client/pull/41) | ✔ | `+9/-8` |
+| `yodle`/`docker-registry-client` | [Adding timeouts to all remote requests](https://github.com/yodle/docker-registry-client/pull/43) | ✔ | `+20/-9` |
+| `jibrelnetwork`/`jwallet-web` | [Better scripts](https://github.com/jibrelnetwork/jwallet-web/pull/1000) | ✔ | `+48/-31` |
+| `steamguard-totp`/`steamguard-shared-secret` | [Make the project compatible with the latest MacOS and Android](https://github.com/steamguard-totp/steamguard-shared-secret/pull/11) | ✔ | `+39/-4` |
+| `ToolJet`/`helm-charts` | [Fix for PG_HOST variables](https://github.com/ToolJet/helm-charts/pull/2) |  | `+0/-2` |
+| `subspacecommunity`/`subspace` | [Custom client nameservers](https://github.com/subspacecommunity/subspace/pull/223) |  | `+26/-15` |
+| `jorgebastida`/`awslogs` | [Add `--json` flag](https://github.com/jorgebastida/awslogs/pull/373) |  | `+23/-5` |
 <!-- end prs -->
 
 <!--

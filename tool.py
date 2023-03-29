@@ -36,7 +36,7 @@ if __name__ == '__main__':
         repo = gh.get_repo(pr_link.get("repo"))
         pr = repo.get_pull(pr_link.get("id"))
         prs_output.append(
-            f"| {repo.full_name} | [{pr.title}]({pr.html_url}) "
+            f"| `{repo.full_name.split('/')[0]}`/`{repo.name}` | [{pr.title}]({pr.html_url}) "
             f"| {'✔' if pr.merged else ''} | `+{pr.additions}/-{pr.deletions}` |"
         )
     prs_output.append("<!-- end prs -->")
