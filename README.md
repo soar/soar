@@ -1,5 +1,7 @@
+<!--
 [![Account Stats](https://github-readme-stats-fork.vercel.app/api?username=soar&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&card_width=256&line_height=24)](https://github.com/soar)
 [![Top Languages (open-source)](https://github-readme-stats-fork.vercel.app/api/top-langs/?username=soar&theme=dracula&layout=compact&langs_count=7&card_width=256)](https://github.com/soar)
+-->
 [![Trophies](https://github-profile-trophy.vercel.app/?username=soar&theme=dracula)](https://github.com/soar)
 
 <!-- prs -->
